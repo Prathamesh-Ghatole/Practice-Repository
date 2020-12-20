@@ -1,0 +1,23 @@
+touch .gitignore
+
+git config --global user.name "Name "
+git config --global user.email "email "
+
+git init
+
+
+git add .
+
+
+git commit -m "commit name"
+
+
+git status 
+
+git remote add origin "# ssh link "
+
+git push orign master
+ 
+
+
+
